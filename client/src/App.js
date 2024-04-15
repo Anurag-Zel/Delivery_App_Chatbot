@@ -21,7 +21,7 @@ function App(){
       return ;
     }
 
-    const uri = `http://localhost:8000/gemini` ;
+    const uri = `https://delivery-app-chatbot.onrender.com/gemini` ;
 
     try{
       const data = {
